@@ -61,9 +61,8 @@ This extension requires minimal permissions to function:
 
 ## 🔗 Links
 
-- [Windows Security Event Log Documentation](https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-logs)
-- [Ultimate Windows Security](https://www.ultimatewindowssecurity.com)
-- [Windows Security Event ID Lookup on Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/win-event-lookup/)
+- [Abuse IP](https://www.abuseipdb.com/)
+- [Abuse IP on Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/abuse-ip-check/)
 
 ---
 
