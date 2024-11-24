@@ -56,4 +56,6 @@ This extension requires minimal permissions to function:
 
 2. Once installed, the extension will automatically add the **"Search on VirusTotal"** option to your right-click context menu.
 
-3. If you encounter any issues, feel free to check the [support section](https://addons.mozilla.org/en-US/firefox/addon/virustotalsearch/) on the Firefox Add-ons page or open an issue on this repository.
+---
+
+### Made with ❤️ by [ZtotheZ](https://github.com/ZtotheZ)
