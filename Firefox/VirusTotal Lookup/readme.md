@@ -55,6 +55,11 @@ This extension requires minimal permissions to function:
    👉 [VirusTotal Search on Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/virustotalsearch/)
 
 2. Once installed, the extension will automatically add the **"Search on VirusTotal"** option to your right-click context menu.
+---
+
+## 🔗 Links
+- [Virus Total](https://www.virustotal.com/gui/home/upload)
+- [Windows Security Event ID Lookup on Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/virustotalsearch/)
 
 ---
 
